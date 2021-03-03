@@ -122,7 +122,7 @@ arguments: `input`, `train`, `dev`, and `test`. The program should:
 2.  Split the data into an 80% training set, 10% development set, and 10% test
     set.
 3.  Write the training set to the `train` path.
-4.  Write the develoment set to the `dev` path.
+4.  Write the development set to the `dev` path.
 5.  Write the testing set to the `test` path.
 
 The resulting training, development, and testing set files should be in the same
